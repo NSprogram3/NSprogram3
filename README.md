@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NSprogram3
-- 👀 I’m interested in SQL 
-- 🌱 I’m currently learning data science analysis 
+- 👀 I’m interested in SQL & ML
+- 🌱 I’m currently learning data science  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
