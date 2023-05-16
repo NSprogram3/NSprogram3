@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NSprogram3
-- 👀 I’m interested in SQL & ML
+- 👋 Hi, I’m Nura
+- 👀 I’m interested in PBI & ML
 - 🌱 I’m currently learning data science  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
